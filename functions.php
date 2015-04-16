@@ -1,8 +1,4 @@
 <?php
-/**
- * @package WordPress
- * @subpackage HTML5_Boilerplate
- */
 
 // Custom HTML5 Comment Markup
 function mytheme_comment($comment, $args, $depth) {

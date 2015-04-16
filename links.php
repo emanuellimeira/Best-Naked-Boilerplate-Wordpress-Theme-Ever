@@ -1,9 +1,4 @@
 <?php
-/**
- * @package WordPress
- * @subpackage HTML5_Boilerplate
- */
-
 /*
 Template Name: Links
 */

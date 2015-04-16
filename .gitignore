@@ -1,0 +1,6 @@
+/node_modules/*
+/bower_components/*
+package.json
+Gruntfile.js
+gulpfile.js
+bower.json
